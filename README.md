@@ -3,7 +3,7 @@ Welcome to The ParaText Plugins Project
 We also call this the "Digital Toolbox", because the plugins are a grab-bag of
 useful tools to extend the capabilities of ParaText.
 
-As of January 1, 2022, the Digital Toolbox is comprised of 2 plugins:
+As of January 1, 2022, the Digital Toolbox is comprised of 3 plugins:
   1. The Plugin Manager Plugin (or, affectionately, The Plugin to Rule Them All)
   2. The Typesetting Preview Tool (TPT)
   3. The Translation Validation Plugin (TVP)
